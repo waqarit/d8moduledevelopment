@@ -1,0 +1,23 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #EEEEEE;
+    font-family: "Montserrat",Impact,sans-serif;
+    letter-spacing: -0.03em;
+    line-height: 0.99em;
+    margin: 0 0 20px;
+    text-shadow: none;
+    text-transform: none;
+}
+
+.reveal {
+    color: #EEEEEE;
+    font-family: "Open Sans",sans-serif;
+    font-size: 40px;
+    font-weight: normal;
+    letter-spacing: -0.02em;
+}
+
+.reveal {
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
